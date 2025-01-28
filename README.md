@@ -1,1 +1,1 @@
-MDEANet: Modified Detail-Enhanced Convolution and Attention-based Network for Dehazing of Remote Sensing Images, Submiited Multimedia Tools and Applications (Uner Review)
+Python Immplementation code of MDEANet: Modified Detail-Enhanced Convolution and Attention-based Network for Dehazing of Remote Sensing Images, Multimedia Tools and Applications",  2024, Springer Nature Publisher.(Published)  Indexed by SCI, Thomson ISI, Scopus (Elsevier), JCR (2020) Impact Factor: 2.757. 
